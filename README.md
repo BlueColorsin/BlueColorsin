@@ -13,16 +13,3 @@ I like Rythem games lol
 Personalty I like a simple complex
 
 ----------------------------------------------
-
-# **FnF Engines I Recommend**
-![image](https://media.discordapp.net/attachments/916918345255751690/930068118938730526/legacy.png)
-
-[**Forever Engine Legacy (HardCoded)**](https://github.com/Yoshubs/Forever-Engine-Legacy)
-
-[**Forever Engine WIP (softCoded)**](https://github.com/Yoshubs/FNF-Forever-Engine)
-
-![image](https://images.gamebanana.com/img/ss/mods/530-90_61b4e783317fa.jpg)
-
-[**Psych Engine (Gamebanana)**](https://gamebanana.com/mods/309789)
-
-[**Psych Engine (GitHub)**](https://github.com/ShadowMario/FNF-PsychEngine)
